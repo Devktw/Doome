@@ -2,7 +2,7 @@
   "listanime":[
 {
    "name_anime":"ดาบพิฆาต เดอะมูฟวี่ ศึกรถไฟสู่นิรันด์ ",
-"url_ep":"https://firebasestorage.googleapis.com/v0/b/doome-308fc.appspot.com/o/ep_demonslayer.json?alt=media&token=18cb2e0c-a405-43bf-8c1e-4a14afb22d01",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/demon/ep_demonslayer",
       "year":"ปี: 2020",
       "formation":"แนว: ต่อสู้,ดราม่า",
       "valus":"1 ตอน(จบแล้ว)",
