@@ -2,22 +2,22 @@
   "listanime":[
 {
       "name_ep":"ปริศนาความทรงจำ ตอนที่1",
-"ep":"https://proxy1.animeyoko.com/stream/720/H8OgKNFHl0DvB2e/__001",
+"ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/4049978539/playlist.m3u8?anthony=6415ca2e506e57d1dbcce00fe004c40d&e=141931&a=116.204.182.186",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep1.jpg"
     },
 {
       "name_ep":"ปริศนาความทรงจำ ตอนที่2",
-"ep":"https://firebasestorage.googleapis.com/v0/b/doome-308fc.appspot.com/o/test.mp4?alt=media&token=3f156283-a054-4959-a63f-23755e668220",
+"ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/2443332942/playlist.m3u8?anthony=472e7d9474c901ce139b3ed52b6f2879&e=141975&a=116.204.182.186",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep2.jpg"
     },
 {
       "name_ep":"ปริศนาความทรงจำ ตอนที่3",
-"ep":"https://cdn.chavalit.is/vod/disk2/movies/ynlftt.mp4",
+"ep":"https://flyer.akamaicdn.cloud/auth/3869605336/playlist.m3u8?anthony=629c616b2ffeaa96fe8963808357478a&e=142078&a=116.204.182.186",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep3.jpg"
     },
 {
       "name_ep":"ปริศนาความทรงจำ ตอนที่4",
-"ep":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+"ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/2141989986/playlist.m3u8?anthony=1074161bc56efddd0c3c920e1b9c02b9&e=142138&a=116.204.182.186",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep4.jpg"
     },
 {
