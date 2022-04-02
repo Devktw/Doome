@@ -27,7 +27,7 @@
     },
 {
    "name_anime":"หลับตาฝันถึงชื่อเธอ",
-"url_ep":"https://mrjovpn.tk/yourname/ep_yourname.php",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/youname/ep_youname.php",
       "year":"ปี: 2016",
       "formation":"แนว: ดราม่า,แฟนตาซี",
       "valus":"1 ตอน(จบแล้ว)",
