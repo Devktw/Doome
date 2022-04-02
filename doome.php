@@ -39,7 +39,7 @@
     },
   {
       "name_anime":"ปริศนาความทรงจำ",
-"url_ep":"https://mrjovpn.tk/hotharo/ep_hotharo.php",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/ep_hyouka.php",
       "year":"ปี: 2001",
       "formation":"แนว: โรงเรียน,ลึกลับ",
       "valus":"23 ตอน(จบแล้ว)",
