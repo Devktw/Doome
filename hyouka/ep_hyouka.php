@@ -50,6 +50,13 @@
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep11.jpg"
     },
 {
+
+      "name_ep":"ปริศนาความทรงจำ ตอนที่11.5(OVA)",
+
+ "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep11.jpg"
+
+    },
+{
       "name_ep":"ปริศนาความทรงจำ ตอนที่12",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep12.jpg"
     },
