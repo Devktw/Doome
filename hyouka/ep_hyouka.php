@@ -15,13 +15,15 @@
 "ep":"https://flyer.akamaicdn.cloud/auth/3869605336/playlist.m3u8?anthony=629c616b2ffeaa96fe8963808357478a&e=142078&a=116.204.182.186",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep3.jpg"
     },
-{
+{"ep":"https://flyer.akamaicdn.cloud/auth/3869605336/playlist.m3u8?anthony=629c616b2ffeaa96fe8963808357478a&e=142078&a=116.204.182.186",
+
       "name_ep":"ปริศนาความทรงจำ ตอนที่4",
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/2141989986/playlist.m3u8?anthony=1074161bc56efddd0c3c920e1b9c02b9&e=142138&a=116.204.182.186",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep4.jpg"
     },
 {
       "name_ep":"ปริศนาความทรงจำ ตอนที่5",
+"ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/145431796/playlist.m3u8?anthony=cf858e8d829d460cbfe991a5d274c537&e=106158&a=116.204.182.186",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep5.jpg"
     },
 {
