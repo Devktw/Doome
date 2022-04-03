@@ -116,7 +116,7 @@
 {
       "name_ep":"ปริศนาความทรงจำ ตอนที่22 จบแล้ว",
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/253845696/playlist.m3u8?anthony=d662cc6d7695a3de860620c2970e2c2a&e=143765&a=116.204.182.186",
- "subtitle":"ซับไทย", "image_ep":"https://mrjovpn.tk/hotharo/hotharo_ep22.jpg"
+ "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep22.jpg"
     }
   ]
 }
