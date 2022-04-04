@@ -38,7 +38,7 @@
     },
   {
       "name_ep":"ปริศนาความทรงจำ ตอนที่8",
-"ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/2443332942/playlist.m3u8?anthony=8c93d63f0cb0a2d7cdf14c4efd175f3c&e=142636&a=116.204.182.186",
+"ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/2025973883/playlist.m3u8?anthony=239f60c9a832f0ab1038ea39bc547c37&e=181591&a=51.79.147.28",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep8.jpg"
     },
 {
