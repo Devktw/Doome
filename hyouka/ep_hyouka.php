@@ -33,7 +33,7 @@
     },
     {
       "name_ep":"ปริศนาความทรงจำ ตอนที่7",
-"ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/4049978539/playlist.m3u8?anthony=31ba0160176b93667779516bef14c55d&e=142611&a=116.204.182.186",
+"ep":"https://flyer.akamaicdn.cloud/auth/3788028353/playlist.m3u8?anthony=055b7c42cce16f1cdb38bdf7d3667bea&e=179906&a=51.79.147.28",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep7.jpg"
     },
   {
