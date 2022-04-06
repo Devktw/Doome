@@ -18,7 +18,7 @@
     },
 {
       "name_manga":"พี่สาวข้างบ้าน",
-"url_ep":"https://mrjovpn.tk/manga_sister/sister_ep.php",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep.php",
       "year":"ปี: 2016",
       "formation":"แนว: เรทอาร์(18+)",
       "valus":"108 ตอน(กำลังอัปเดต)",
