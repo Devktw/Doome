@@ -195,22 +195,7 @@
 ",
       "image_anime":"https://i2.wp.com/akibatan.com/wp-content/uploads/2018/02/live-action-sword-art-online-producer-series-sold-to-netflix-will-have-asian-lead-actors-01.jpg?ssl=1"
     },
-{
-      "name_anime":"โบรูโตะ: นารูโตะ เน็กซ์ เจนเนเรชั่น",
-"url_ep":"https://mrjovpn.tk/ep_hotharo.php",
-      "year":"ปี: 2017",
-      "formation":"แนว: ต่อสู้,ดราม่า,ตลก",
-      "valus":"220 ตอน(ยังไม่จบ)",
-      "seson":"ซีซั่น: 1",
-      "subtitle":"ซับไทย",
-      "mini_story":"หลังสงครามนินจาครั้งที่ 4 นารูโตะได้เป็นโฮคาเงะคนที่ 7 ของ
-หมู่บ้าน และได้มีลูกกับ ฮิวกะ ฮินาตะ เรื่องราวจะโฟกัสไปที่ลูกชายคน
-โตชื่อ โบรูโตะ ได้เข้าในโรงเรียนนินจาพร้อมกับเพื่อนร่วมรุ่นหลาย
-คน อยู่ในทีมของ โคโนฮามารุ ร่วมกับ ซาราดะ ลูกสาวของซาสึเกะกับ
-ซากุระ และ มิตสึกิ มีกรณีคนถูกสิงโดยเรียกว่า โกสต์มีเพียงโบรู
-โตะคนเดียวที่มองเห็นและเกิดการขโมยจักระในหมู่บ้านนินจา",
-      "image_anime":"https://img-ha.mthcdn.com/69cqgUMdm4CoGxcfvDWr8hUeUWQ=/mthai.com/app/uploads/2021/07/Boruto_-_naruto_next_generations_anime_poster.jpg"
-    },
+
 {
       "name_anime":"ผ่าพิภพไททัน",
 "url_ep":"https://mrjovpn.tk/ep_hotharo.php",
