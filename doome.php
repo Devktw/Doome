@@ -1,6 +1,37 @@
 {
   "listanime":[
 {
+
+      "name_anime":"โบรูโตะ: นารูโตะ เน็กซ์ เจนเนเรชั่น",
+
+"url_ep":"https://github.com/Devktw/Doome/raw/main/boruto/ep_boruto",
+
+      "year":"ปี: 2017",
+
+      "formation":"แนว: ต่อสู้,ดราม่า,ตลก",
+
+      "valus":"220 ตอน(ยังไม่จบ)",
+
+      "seson":"ซีซั่น: 1",
+
+      "subtitle":"ซับไทย",
+
+      "mini_story":"หลังสงครามนินจาครั้งที่ 4 นารูโตะได้เป็นโฮคาเงะคนที่ 7 ของ
+
+หมู่บ้าน และได้มีลูกกับ ฮิวกะ ฮินาตะ เรื่องราวจะโฟกัสไปที่ลูกชายคน
+
+โตชื่อ โบรูโตะ ได้เข้าในโรงเรียนนินจาพร้อมกับเพื่อนร่วมรุ่นหลาย
+
+คน อยู่ในทีมของ โคโนฮามารุ ร่วมกับ ซาราดะ ลูกสาวของซาสึเกะกับ
+
+ซากุระ และ มิตสึกิ มีกรณีคนถูกสิงโดยเรียกว่า โกสต์มีเพียงโบรู
+
+โตะคนเดียวที่มองเห็นและเกิดการขโมยจักระในหมู่บ้านนินจา",
+
+      "image_anime":"https://img-ha.mthcdn.com/69cqgUMdm4CoGxcfvDWr8hUeUWQ=/mthai.com/app/uploads/2021/07/Boruto_-_naruto_next_generations_anime_poster.jpg"
+
+    },
+{
    "name_anime":"ดาบพิฆาตอสูร ย่านเริงรมย์ ",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/demonss2/ep_demonslayer.php",
       "year":"ปี: 2021",
