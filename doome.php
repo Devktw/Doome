@@ -9,7 +9,7 @@
       "seson":"ซีซั่น: 2",
       "subtitle":"พากย์ไทย",
       "mini_story":"เรื่องราวต่อจากภาครถไฟ เสาหลักเสียงอุซุย เท็นเง็น และแก๊งทันจิโร่ในย่านเริงรมย์",
-      "image_anime":"https://github.com/Devktw/Doome/raw/main/demonss2/demonss2_poster.png"
+      "image_anime":"https://github.com/Devktw/Doome/raw/main/demonss2/domonss2_poster.png"
     },
 {
    "name_anime":"ดาบพิฆาตอสูร เดอะมูฟวี่ ศึกรถไฟสู่นิรันด์ ",
