@@ -1,6 +1,17 @@
 {
   "listanime":[
 {
+   "name_anime":"ดาบพิฆาตอสูร ย่านเริงรมย์ ",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/demonss2/ep_demonslayer.php",
+      "year":"ปี: 2021",
+      "formation":"แนว: ต่อสู้,ดราม่า",
+      "valus":"11 ตอน(จบแล้ว)",
+      "seson":"ซีซั่น: 2",
+      "subtitle":"พากย์ไทย",
+      "mini_story":"เรื่องราวต่อจากภาครถไฟ เสาหลักเสียงอุซุย เท็นเง็น และแก๊งทันจิโร่ในย่านเริงรมย์",
+      "image_anime":"https://github.com/Devktw/Doome/raw/main/demonss2/demonss2_poster.png"
+    },
+{
    "name_anime":"ดาบพิฆาตอสูร เดอะมูฟวี่ ศึกรถไฟสู่นิรันด์ ",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/demon/ep_demonslayer.php",
       "year":"ปี: 2020",
