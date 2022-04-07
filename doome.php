@@ -4,7 +4,7 @@
 
       "name_anime":"โบรูโตะ: นารูโตะ เน็กซ์ เจนเนเรชั่น",
 
-"url_ep":"https://github.com/Devktw/Doome/raw/main/boruto/ep_boruto",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/boruto/ep_boruto.php",
 
       "year":"ปี: 2017",
 
