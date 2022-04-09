@@ -10,7 +10,7 @@
       "seson":"ซีซั่น: 1",
       "subtitle":"แปลไทย",
       "view":"54 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep1.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep1.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep1.jpg"
 
     },
 {
