@@ -1,0 +1,156 @@
+ {
+  "listmanga":[
+{
+"view_manga_a4":"หน้าที่1",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__001(NTE).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่2",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__002(MDI).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่3",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__003(NTM).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่4",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__004(MDQ).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่5",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__005(NTU).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่6",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__006(MDY).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่7",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__007(NTc).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่8",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__008(MjA).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่9",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__009(MzU).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่10",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__010(NTE).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่11",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__011(NjY).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่12",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__012(ODE).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่13",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__013(OTY).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่14",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__014(MTE).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่15",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__015(MjY).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่16",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__016(NDE).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่17",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__017(NTY).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่18",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__018(NzE).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่19",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__019(ODY).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่20",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__020(MDI).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่21",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__021(MTc).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่22",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__022(MzI).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่23",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__023(NDc).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่24",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__024(NjI).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่25",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__025(Nzc).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่26",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__026(OTI).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่27",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__027(MDc).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่28",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__028(MjI).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่29",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__029(Mzc).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่30",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__030(NTM).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่31",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__031(Njg).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่32",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__032(ODM).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่33",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__033(OTg).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่34",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__034(MTM).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่35",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__035(Mjg).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่36",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__036(NDM).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่37",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__037(NTg).jpg"
+    },
+{
+"view_manga_a4":"หน้าที่38",
+"view_manga":"https://s1.hentaithai.net/image/2020/2020-09-18/[BT][HENTAITHAI.COM]__013151__038(NzM).jpg"
+    }
+  ]
+}
