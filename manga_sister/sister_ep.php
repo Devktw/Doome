@@ -75,7 +75,7 @@
       "seson":"ซีซั่น: 1",
       "subtitle":"แปลไทย",
       "view":"35 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep6.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep6.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep6.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep6.jpg"
 
     },
 {
@@ -88,7 +88,7 @@
       "seson":"ซีซั่น: 1",
       "subtitle":"แปลไทย",
       "view":"37 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep7.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep7.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep7.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep7.jpg"
 
     },
 {
@@ -101,7 +101,7 @@
       "seson":"ซีซั่น: 1",
       "subtitle":"แปลไทย",
       "view":"35 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep8.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep8.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep8.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep8.jpg"
 
     },
 {
@@ -114,7 +114,7 @@
       "seson":"ซีซั่น: 1",
       "subtitle":"แปลไทย",
       "view":"11 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep9.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep9.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep9.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep9.jpg"
 
     },
 {
@@ -127,7 +127,7 @@
       "seson":"ซีซั่น: 1",
       "subtitle":"แปลไทย",
       "view":"13 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep10.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep10.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep10.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep10.jpg"
 
     },
 {
