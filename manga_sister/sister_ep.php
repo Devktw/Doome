@@ -136,7 +136,7 @@
 
       "subtitle":"แปลไทย",
       "view":"11 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep11.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep11.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep11.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep11.jpg"
 
     },
 {
@@ -145,7 +145,7 @@
 
       "subtitle":"แปลไทย",
       "view":"12 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep12.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep12.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep12.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep12.jpg"
 
     },
 {
@@ -154,7 +154,7 @@
 
       "subtitle":"แปลไทย",
       "view":"14 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep13.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep13.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep13.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep13.jpg"
 
     },
 {
@@ -163,7 +163,7 @@
 
       "subtitle":"แปลไทย",
       "view":"12 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep14.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep14.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep14.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep14.jpg"
 
     },
 {
@@ -172,7 +172,7 @@
 
       "subtitle":"แปลไทย",
       "view":"11 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep15.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep15.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep15.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep15.jpg"
 
     },
 {
@@ -181,7 +181,7 @@
 
       "subtitle":"แปลไทย",
       "view":"11 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep16.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep16.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep16.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep16.jpg"
 
     },
 {
@@ -190,7 +190,7 @@
 
       "subtitle":"แปลไทย",
       "view":"11 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep17.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep17.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep17.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep17.jpg"
 
     },
 {
@@ -199,7 +199,7 @@
 
       "subtitle":"แปลไทย",
       "view":"11 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep18.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep18.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep18.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep18.jpg"
 
     },
 {
@@ -208,7 +208,7 @@
 
       "subtitle":"แปลไทย",
       "view":"11 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep19.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep19.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep19.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep19.jpg"
 
     },
 {
@@ -217,7 +217,7 @@
 
       "subtitle":"แปลไทย",
       "view":"11 หน้า",
-"image_view_ep":"https://mrjovpn.tk/manga_sister/sister_view_ep20.php", "image_manga_ep":"https://mrjovpn.tk/manga_sister/sister_ep20.jpg"
+"image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_view_ep20.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep20.jpg"
 
     },
 {
