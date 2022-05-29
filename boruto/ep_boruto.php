@@ -2,7 +2,7 @@
   "listanime":[
 {
       "name_ep":"ตอนที่1 อุสึมากิ โบรูโตะ",
-"ep":"https://fvs.io/redirector?token=THh3MC9kNU1TWWNWeDVucmlWSUcySVJoMlRTdE5OR29HUlVycGZoeWhaOWNJS1g2d245UUVtRHhweCt3a1B2b3l2cWVZU25YTFhPbURJQVVYY0tNVDNiWWlpa2tNUHdqNk5KS2VyMUhvYVlvb0tXdktsMHVxWENuZWM3OHM5QjVQT0xyaWRKbWxlT2lBbWRYVWY0WU1qRXZtZDBzQStEUE1RPT06ajNPdjVVQ2Z4YWVuYmhnODBBaHhNZz09CBBS",
+"ep":"https://fvs.io/redirector?token=cXpndzBLSmlEeFhEQVhxUmRkSGM3VUlMS2RhT2NpSjhFRzRKMitCMFozMnVkcFg4YmV1RlFDbkNBMDExenUrM0RlZnNPOWhvUy9OWFYzeDEyQWszdWJld1djZnZhNEVQN2hhOU5idGFDc0pVRnVoYjh1VWVyNGt4QUh2Zzk5RUgwMC90SEpCTHk3cVhheU8vMzRoU0dQVkJnWFd5QkJoWToxMm5xZnpOR3RBWFJjV2ZGRXdMS2JnPT0teSe",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/boruto/boruto_ep1.jpg"
     }
 ]
