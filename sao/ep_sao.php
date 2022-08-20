@@ -19,7 +19,7 @@
 
 "ep":"https://flyer.akamaicdn.cloud/auth/2831915710/playlist.m3u8?anthony=29bb8bfb598205b8e30e48fe7ce3d74f&e=112264&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep2.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep2.jpeg"
 
     },
 
@@ -29,7 +29,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/4198134233/playlist.m3u8?anthony=ff6f30059e42571c2d7fad980a11f25a&e=112331&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep3.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep3.jpeg"
 
     },
 
@@ -39,7 +39,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/2369601871/playlist.m3u8?anthony=dd4ab91b003f8041767dfaf1f7efa006&e=112371&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep4.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep4.jpeg"
 
     },
 
@@ -49,7 +49,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/338956533/playlist.m3u8?anthony=ad65668807c80d5b46898d2edff2188f&e=112433&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep5.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep5.jpeg"
 
     },
 
@@ -59,7 +59,7 @@
 
 "ep":"https://flyer.akamaicdn.cloud/auth/1664295011/playlist.m3u8?anthony=d582a15e2a311d2d88805f906b403734&e=112515&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep6.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep6.jpeg"
 
     },
 
@@ -69,7 +69,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/4250383808/playlist.m3u8?anthony=99efbc037baaca400b8a3cfd5b58962d&e=112566&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep7.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep7.jpeg"
 
     },
 
@@ -79,7 +79,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/2320532822/playlist.m3u8?anthony=c7cc5e0d6135e6ecfa185400931eeb26&e=112634&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep8.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep8.jpeg"
 
     },
 
@@ -89,7 +89,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/324654316/playlist.m3u8?anthony=cd6a35a1e51fa07094dacb90a34b4107&e=112672&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep9.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep9.jpeg"
 
     },
 
@@ -99,7 +99,7 @@
 
 "ep":"https://flyer.akamaicdn.cloud/auth/1683940474/playlist.m3u8?anthony=b754ec4eba5c62bf1b113aa013c0a3cd&e=112711&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep10.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep10.jpeg"
 
     },
 
@@ -109,7 +109,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/4108450283/playlist.m3u8?anthony=f88ba625406282ba5ed183623345045f&e=112748&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep11.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep11.jpeg"
 
     },
 
@@ -119,7 +119,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/2212940157/playlist.m3u8?anthony=acf4d4d3251f7e7ef29bc34b13349c52&e=112789&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep12.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep12.jpeg"
 
     },
 
@@ -129,7 +129,7 @@
 
 "ep":"https://flyer.akamaicdn.cloud/auth/3810607256/playlist.m3u8?anthony=b34109cf0a17abb140119509ef49199a&e=112823&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep13.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep13.jpeg"
 
     },
 
@@ -139,7 +139,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/2485547022/playlist.m3u8?anthony=ec3638b1ac2496f1d04c02d251879eeb&e=112856&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep14.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep14.jpeg"
 
     },
 
@@ -149,7 +149,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/221192628/playlist.m3u8?anthony=ffbf6110ce7af4ef98842aebf5b4e11b&e=112938&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep15.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep15.jpeg"
 
     },
 
@@ -159,7 +159,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/2049446178/playlist.m3u8?anthony=80f41dec86c9732bfd9406b411028c0e&e=112969&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep16.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep16.jpeg"
 
     },
 
@@ -169,7 +169,7 @@
 
 "ep":"https://flyer.akamaicdn.cloud/auth/3830219905/playlist.m3u8?anthony=521e69c63578828593e97e057b942f00&e=113002&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep17.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep17.jpeg"
 
     },
 
@@ -179,7 +179,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/2471212055/playlist.m3u8?anthony=7f634aac14522b71393e8b93974f5a1a&e=113050&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep18.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep18.jpeg"
 
     },
 
@@ -189,7 +189,7 @@
 
 "ep":"https://flyer.akamaicdn.cloud/auth/172156333/playlist.m3u8?anthony=237e838e0de81a4b9129278bb07f6af6&e=113083&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep19.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep19.jpeg"
 
     },
 
@@ -199,7 +199,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/2101728571/playlist.m3u8?anthony=5afa12cab35e6efcdfdd0b83d63bf627&e=113121&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep20.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep20.jpeg"
 
     },
 
@@ -209,7 +209,7 @@
 
 "ep":"https://flyer.akamaicdn.cloud/auth/3992635562/playlist.m3u8?anthony=be784fb54df35597a4bf98f39d1c38e4&e=113171&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep21.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep21.jpeg"
 
     },
 
@@ -219,7 +219,7 @@
 
 "ep":"https://flyer.akamaicdn.cloud/auth/2600335420/playlist.m3u8?anthony=2d01ad625220357290efd236a2e57a41&e=113201&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep22.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep22.jpeg"
 
     },
 
@@ -229,7 +229,7 @@
 
 "ep":"https://flyer.akamaicdn.cloud/auth/2892027487/playlist.m3u8?anthony=855a0e13e177d383501c6efdb70e8094&e=113235&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep23.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep23.jpeg"
 
     },
 
@@ -239,7 +239,7 @@
 
 "ep":"https://flyer.akamaicdn.cloud/auth/3681019593/playlist.m3u8?anthony=c7bf379c140f6d88918134ccc81c2be3&e=113265&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep24.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep24.jpeg"
 
     },
 
@@ -249,7 +249,7 @@
 
 "ep":"https://ojkiydmujl6f.akamaicdn.cloud/auth/1114552179/playlist.m3u8?anthony=2538ee1a8bed708cd94c1d83b6b5feed&e=113308&a=110.164.130.13",
 
- "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep25.jpg"
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep25.jpeg"
 
     }
 
