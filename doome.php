@@ -16,18 +16,6 @@
       "image_anime":"https://i2.wp.com/akibatan.com/wp-content/uploads/2018/02/live-action-sword-art-online-producer-series-sold-to-netflix-will-have-asian-lead-actors-01.jpg?ssl=1"
     },
 {
-   "name_anime":"หลับตาฝันถึงชื่อเธอ",
-"url_ep":"https://github.com/Devktw/Doome/raw/main/youname/ep_youname.php",
-      "year":"ปี: 2016",
-      "formation":"แนว: ดราม่า,แฟนตาซี",
-      "valus":"1 ตอน(จบแล้ว)",
-      "seson":"ซีซั่น: 1",
-      "subtitle":"พากย์ไทย",
-      "mini_story":"เรื่องราวปาฏิหาริย์ระหว่างของคนสองคน มิตสึฮะ (โมเนะ คามิชิราอิชิ )เด็กสาวผู้อาศัยอยู่ในชนบทแต่มีความฝันที่อยากไปใช้ชีวิตในเมืองกรุง และ ทากิ (ริวโนะสุเกะ คามิกิ ) เด็กหนุ่มในโตเกียวผู้ทำงานพิเศษที่ร้านอาหารอิตาเลียน และสนใจในงานด้านศิลปะ วันหนึ่ง มิตสึฮะได้ฝันว่าตัวเองกลายเป็นเด็กหนุ่ม ขณะที่ทากิฝันว่าตัวเองกลายเป็นเด็กสาวในชนบททั้งๆที่เขาไม่เคยไปมาก่อน ทั้งสองจึงต่างเดินทางเพื่อไขความลับของความฝัน จนกลายเป็นความผูกพันบางอย่าง
-",
-      "image_anime":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3QB3QYVM0reeQXjBYVZ7s7iUabCzc2x13Q&usqp=CAU"
-    },
-{
    "name_anime":"ดาบพิฆาตอสูร ย่านเริงรมย์ ",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/demonss2/ep_demonslayer.php",
       "year":"ปี: 2021",
