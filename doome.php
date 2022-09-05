@@ -15,6 +15,27 @@
 ",
       "image_anime":"https://i2.wp.com/akibatan.com/wp-content/uploads/2018/02/live-action-sword-art-online-producer-series-sold-to-netflix-will-have-asian-lead-actors-01.jpg?ssl=1"
     },
+ {
+
+      "name_anime":"ปริศนาความทรงจำ",
+
+"url_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/ep_hyouka.php",
+
+      "year":"ปี: 2001",
+
+      "formation":"แนว: โรงเรียน,ลึกลับ",
+
+      "valus":"23 ตอน(จบแล้ว)",
+
+      "seson":"ซีซั่น: 1",
+
+      "subtitle":"พากย์ไทย",
+
+      "mini_story":"โอเรกิ โฮทาโร่ จากโรงเรียนมัธยมปลายคามิยามะ จำต้องเข้าร่วมชมรมวรรณกรรมคลาสสิกตามคำขอร้องของพี่สาวเพื่อไม่ให้ชมรมนั้นถูกยุบ และเมื่อเข้าร่วมชมรม เขาได้พบกับจิทันดะ เอรุ ฟุคุเบะ ซาโตชิ และอิบาระ มายากะ และด้วยความขี้สงสัยเป็นอันมากของจิทันดะ เอรุ ทำให้นักอนุรักษ์พลังงานชีวิตอย่างเขาต้องมาคอยแก้ปัญหาเพื่อให้เธอพึงพอใจอยู่เสมอ เนื้อเรื่องเกิดขึ้นที่เมืองคามิยามะ ซึ่งเป็นเมืองที่สมมุติขึ้น โดยตั้งอยู่ที่จังหวัดกิฟุ ซึ่งที่นี่ก็เป็นบ้านเกิดของผู้แต่งด้วย",
+
+      "image_anime":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVac9M2uBRqkzHbr5byKahhJGUWt0E9HPukA&usqp=CAU"
+
+    },
 {
       "name_anime":"ชายไม่มีตากับนาฬิกาคู่ใจ",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/noeye/ep_noeye.php",
