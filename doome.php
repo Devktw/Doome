@@ -15,7 +15,17 @@
 ",
       "image_anime":"https://i2.wp.com/akibatan.com/wp-content/uploads/2018/02/live-action-sword-art-online-producer-series-sold-to-netflix-will-have-asian-lead-actors-01.jpg?ssl=1"
     },
-
+{
+      "name_anime":"ชายไม่มีตากับนาฬิกาคู่ใจ",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/noeye/ep_noeye.php",
+      "year":"ปี: 2015",
+      "formation":"แนว: ข่มขืน,โรคจิต",
+      "valus":"4 ตอน(จบแล้ว)",
+      "seson":"ซีซั่น: 1",
+      "subtitle":"ซับไทย",
+      "mini_story":"ลูกชายไร้นามทีร่ำรวยที่พยายามหาทางแก้แค้นตั้งแต่พ่อทิ้งเขาและแม่ของเขาไป เขาตัดสินใจที่จะสอนบทเรียนให้พ่อของเขาด้วยการทำลายสิ่งที่เขามีค่าที่สุด นั่นคือลูกสาวสองคนของเขา เขาแทรกซึมเข้าไปในโรงเรียนอันทรงเกียรติของพวกเขาด้วยอุปกรณ์หยุดเวลาเวทย์มนตร์ที่เขาได้รับจากแม่มด—และดำเนินการข่มขืนพี่สาวต่างมารดาซ้ำแล้วซ้ำเล่า ทำให้พวกเขาสับสน ทำอะไรไม่ถูก และขอความเมตตา",
+      "image_anime":"https://www.alpha-hen.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2018/08/169861.jpg.webp"
+    },
 {
    "name_anime":"ดาบพิฆาตอสูร ย่านเริงรมย์ ",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/demonss2/ep_demonslayer.php",
