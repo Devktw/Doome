@@ -37,7 +37,7 @@
     },
  {
       "name_ep":"ตอนที่8 รวมพล",
-"ep":"https://redirector.googlevideo.com/videoplayback?service=marimodesign&ipbits=0&bypass=yes&keeplive=true&expire=1662839341&ei=rXkcY-S9A9qO2LYP47m-6Ac&ip=154.85.126.226&id=3989e9240b0b3d3d&itag=22&source=blogger&mh=Me&mm=31&mn=sn-25ge7nsk&ms=au&mv=m&mvi=1&pl=23&susc=bl&eaua=z3PVNAx3K-0&mime=video/mp4&vprv=1&dur=1420.178&lmt=1645359650379488&mt=1662810058&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgSnmxoAYZxabuUYzlgqM2WufxGqsbvQJDYLyT4tJ83l0CIGFuvgkPPag_4HHCuvugxSGulFVxViY0NPmJYAawUBZP&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgLTDfy2to_3FG-G0viIWYFRWVJ67iUkyO82YMKWXHVKsCIF2WMMn__k3NiVZpzW9Uz3iLWy_zxM1-HDmWWMV4WyK5",
+"ep":"https://sto067.akamai-cdn-content.com/tysxftdl3k6oj6cdab3bpqkhfykal5dhaqqexzdkztsdemoxp32lqyg263wa/video.mp4",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/demonss2/demonss2_ep8.jpg"
     },
 {
