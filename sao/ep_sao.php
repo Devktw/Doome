@@ -2,7 +2,15 @@
 {
 
   "listanime":[
+{
 
+      "name_ep":"ซอร์ดอาร์ตออนไลน์ ตอนที่1",
+
+"ep":"https://flyer.akamaicdn.cloud/auth/3754732072/playlist.m3u8?anthony=364aa48a079a65235ca971c443c27226&e=110845&a=110.164.130.13",
+
+ "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/sao/sao_ep1.jpg"
+
+    },
 {
 
       "name_ep":"ซอร์ดอาร์ตออนไลน์ ตอนที่1",
