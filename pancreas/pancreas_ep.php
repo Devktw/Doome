@@ -2,7 +2,7 @@
   "listanime":[
 {
       "name_ep":"เพราะหัวใจใกล้ตับอ่อนเดอะมูฟวี่",
-"ep":"https://flyer.akamaicdn.cloud/auth/1870300661/playlist.m3u8?anthony=dc4e4a535cee9fe6ff301f6c445a34ea&e=149333&a=116.204.182.186",
+"ep":"https://files.akuma-player.xyz/view/f0752c91-6de5-5a7c-be6d-5f9ca7799d51.m3u8",
  "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/panteas/IMG_20220912_200527.png"
     }
   ]
