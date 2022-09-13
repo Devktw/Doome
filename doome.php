@@ -2,7 +2,7 @@
   "listanime":[
 {
       "name_anime":"ใครว่าข้าไม่เหมาะเป็นจอมมาร",
-"url_ep":"https://github.com/Devktw/Doome/raw/main/pancreas/pancreas_ep.php",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/anos/anos_ep.php",
       "year":"ปี: 2020",
       "formation":"แนว: แอ็คชั่น",
       "valus":"13 ตอน(จบแล้ว)",
