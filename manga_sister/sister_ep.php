@@ -2,7 +2,7 @@
   "listmanga":[
 {
 
-      "name_manga_ep":"ตอนที่1",
+      "name_manga_ep":"ตอนที่เทสๆ",
       "ep_url":"",
       "year":"ปี: 2016",
       "formation":"แนว: แอ็คชั่น",
