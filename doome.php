@@ -13,7 +13,7 @@
     },
 {
       "name_anime":"จูราสสิคเวิลด์ ซีซั่น1",
-"url_ep":"https://github.com/Devktw/Doome/raw/main/pancreas/pancreas_ep.php",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/jurassic1/ep_jurassic.php",
       "year":"ปี: 2015",
       "formation":"แนว: แอ็คชั่น,ดราม่า",
       "valus":"1 ตอน",
