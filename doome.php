@@ -6,7 +6,7 @@
       "year":"2020",
       "formation":"แอ็คชั่น",
       "valus":"13",
-      "status":"end",
+      "status":"up",
       "package":"free",
       "seson":"1",
       "subtitle":"ซับไทย",
