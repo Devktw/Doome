@@ -1,6 +1,19 @@
 {
   "listanime":[
 {
+      "name_anime":"Chainsaw Man",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/chainsawman/ep_chainsawman.php",
+      "year":"2022",
+      "formation":"แอ็คชั่น,ดราม่า",
+      "valus":"12",
+      "status":"up",
+      "package":"free",
+      "seson":"1",
+      "subtitle":"ซับไทย",
+      "mini_story":"เป็นเรื่องราวเกี่ยวกับเด็นจิ ชายหนุ่มตกอับผู้ทำสัญญากับปีศาจร่างคล้ายสุนัขชื่อโปจิตะ ซึ่งหลอมรวมกับเด็นจิทำให้เด็นจิสามารถเปลี่ยนอวัยวะส่วนต่าง ๆ ของร่างกายให้กลายเป็นเลื่อยยนต์ได้ ในที่สุดเด็นจิจึงได้เข้าร่วมเป็นนักล่าปีศาจของทางการ",
+      "image_anime":"https://img.https://pbs.twimg.com/media/FYyVjeBWIAExR-o.png:large"
+    },
+{
       "name_anime":"ใครว่าข้าไม่เหมาะเป็นจอมมาร",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/anos/ep_anos.php",
       "year":"2020",
