@@ -84,7 +84,7 @@
       "name_anime":"ใครว่าข้าไม่เหมาะเป็นจอมมาร",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/anos/ep_anos.php",
       "year":"2020",
-      "formation":"ต่อสู้",
+      "formation":"ต่อสู้,แฟนตาซี",
       "type":"anime",
       "valus":"13",
       "status":"end",
