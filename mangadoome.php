@@ -17,7 +17,7 @@
 
     },
 {
-      "name_manga":"พี่สาวข้างบ้าน",
+      "name_manga":"พี่สาวข้างบ้าน – Sister Neighbors",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep.php",
       "year":"ปี: 2016",
       "formation":"แนว: เรทอาร์(18+)",
