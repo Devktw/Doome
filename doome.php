@@ -55,7 +55,7 @@
       "year":"2016",
       "formation":"เรทอาร์(18+)",
       "type":"manga",
-      "Valus":"108",
+      "valus":"108",
       "status":"up",
       "package":"free",
       "seson":"1",
