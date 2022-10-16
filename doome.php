@@ -65,7 +65,7 @@
       "mini_story":"เรื่องราวของจีโฮที่อาศัยอยู่กับพี่สาวของเขาเรื่องราวจะเป็นยังไงติดตามชม!!",
       "image_manga":"https://doujinza.com/wp-content/uploads/2021/01/msedge_P7breYI400-193x278.png"
 
-    }
+    },
 {
       "name_anime":"ปริศนาความทรงจำ",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/ep_hyouka.php",
