@@ -7,7 +7,7 @@
     },
 {
       "name_ep":"ตอนที่2 ลักรอบเข้าย่ายโคมแดง",
-"ep":"https://flyer.akamaicdn.cloud/auth/3006645047/playlist.m3u8?anthony=a55990f18534fdd2d61d62d454479bcb&e=153622&a=103.2.115.135",
+"ep":"https://flyer.akamaicdn.cloud/auth/3291673505/playlist.m3u8?anthony=de9492f04ae64812bd3e6e4d1089b189&e=180386&a=116.204.180.52",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/demonss2/demonss2_ep2.jpg"
     },
 {
