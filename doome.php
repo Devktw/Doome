@@ -16,7 +16,7 @@
     },
 {
    "name_anime":"ดาบพิฆาตอสูร เดอะมูฟวี่ ศึกรถไฟสู่นิรันด์ ",
-"url_ep":"https://github.com/Devktw/Doome/raw/main/demon/ep_demonslaye2.php",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/demon/ep_demonslayer2.php",
       "year":"2020",
       "formation":"ต่อสู้,ดราม่า",
       "type":"anime",
