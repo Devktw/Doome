@@ -15,6 +15,20 @@
       "image_anime":"https://pbs.twimg.com/media/FYyVjeBWIAExR-o.png:large"
     },
 {
+   "name_anime":"ดาบพิฆาตอสูร เดอะมูฟวี่ ศึกรถไฟสู่นิรันด์ ",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/demon/ep_demonslayer2.php",
+      "year":"2020",
+      "formation":"ต่อสู้,ดราม่า",
+      "valus":"1",
+      "seson":"2",
+      "status":"end",
+      "package":"free",
+      "subtitle":"ซับไทย",
+      "mini_story":"เรื่องราวที่ต่อเนื่องทันทีจากฉบับอนิเมะซีรีส์ เมื่อก๊วนเพื่อนของทั้งทันจิโร่ และเนซึโกะ ได้รับภารกิจให้ไปสืบสวนหาสาเหตุการหายตัวไปของผู้คนบนขบวนรถไฟสู่นิรันดร์ พวกเขาจึงได้รู้ว่าบนขบวนรถไฟลำนี้มีอสูรทรงพลังซ่อนตัวอยู่ แต่คราวนี้พวกเขาก็ไม่จำเป็นต้องต่อสู้กันตามลำพัง เพราะเสาหลักแห่งไฟ เรนโงคุ ได้เข้าร่วมศึกด้วย นี่จึงกลายเป็นการต่อสู้เพื่อช่วยเหลือผู้คนบริสุทธิ์บนขบวนรถไฟแห่งฝันร้าย
+",
+      "image_anime":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBGNoaQasrr-gZX_MtfP_-rM73MxDT9Rugww&usqp=CAU"
+    },
+{
       "name_anime":"ซอร์ดอาร์ตออนไลน์",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/sao/ep_sao.php",
       "year":"2013",
