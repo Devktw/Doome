@@ -2,7 +2,7 @@
   "listanime":[
 {
    "name_anime":"Blue Period",
-"url_ep":"https://github.com/Devktw/Doome/raw/main/blue period/ep_blueperiod.php",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/blueperiod/ep_blueperiod.php",
       "year":"2021",
       "formation":"ศิลปะ,โรงเรียน",
       "valus":"12",
