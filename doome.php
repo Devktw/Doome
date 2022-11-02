@@ -1,6 +1,20 @@
 {
   "listanime":[
 {
+   "name_anime":"Blue Period",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/blue period/ep_blueperiod.php",
+      "year":"2021",
+      "formation":"ศิลปะ,โรงเรียน",
+      "valus":"12",
+      "seson":"1",
+      "status":"end",
+      "package":"free",
+      "subtitle":"ซับไทย",
+      "mini_story":"ยางุจิ ยาโทระ หนุ่มเรียนดีที่เพิ่งได้พบว่าตนหลงไหลในงานศิลปะช่วงมัธยมปลายปีสอง ทั้งที่วาดภาพไม่เป็น จึงตัดสินใจทุ่มเทกับการวาดภาพเพื่อเรียนต่อในวิทยาลัยสายศิลป์
+",
+      "image_anime":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8zOcyp4MV9ViahVhHKM99tSinoy8h-OIiA&usqp=CAU"
+    },
+{
       "name_anime":"Chainsaw Man",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/chainsawman/ep_chainsawman.php",
       "year":"2022",
