@@ -5,6 +5,7 @@
 "url_ep":"https://github.com/Devktw/Doome/raw/main/blueperiod/ep_blueperiod.php",
       "year":"2021",
       "formation":"ศิลปะ,โรงเรียน",
+      "type":"anime",
       "valus":"12",
       "seson":"1",
       "status":"end",
