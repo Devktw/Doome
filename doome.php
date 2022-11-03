@@ -1,7 +1,7 @@
 {
   "listanime":[
 {
-   "name_anime":"Blue Period",
+   "name_anime":"บลู พีเรียด",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/blueperiod/ep_blueperiod.php",
       "year":"2021",
       "formation":"ศิลปะ,โรงเรียน",
@@ -10,7 +10,7 @@
       "seson":"1",
       "status":"end",
       "package":"free",
-      "subtitle":"ซับไทย",
+      "subtitle":"พากย์ไทย",
       "mini_story":"ยางุจิ ยาโทระ หนุ่มเรียนดีที่เพิ่งได้พบว่าตนหลงไหลในงานศิลปะช่วงมัธยมปลายปีสอง ทั้งที่วาดภาพไม่เป็น จึงตัดสินใจทุ่มเทกับการวาดภาพเพื่อเรียนต่อในวิทยาลัยสายศิลป์
 ",
       "image_anime":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8zOcyp4MV9ViahVhHKM99tSinoy8h-OIiA&usqp=CAU"
