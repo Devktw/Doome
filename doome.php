@@ -1,7 +1,7 @@
 {
   "listanime":[
 {
-   "name_anime":"บลู พีเรียด",
+   "name_anime":"บลู พีเรียดo",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/blueperiod/ep_blueperiod.php",
       "year":"2021",
       "formation":"ศิลปะ,โรงเรียน",
