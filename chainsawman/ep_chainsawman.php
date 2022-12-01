@@ -34,6 +34,11 @@
       "name_ep":"chainsawman ตอนที่7",
 "ep":"https://flyer.akamaicdn.cloud/auth/1940997778/playlist.m3u8?anthony=9677ed1701b2c63536f5db29b50dcc6f&e=138156&a=110.164.130.13",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/chainsawman/chainsawman_ep7.jpg"
+    },
+{
+      "name_ep":"chainsawman ตอนที่8",
+"ep":"https://flyer.akamaicdn.cloud/auth/1160538353/playlist.m3u8?anthony=5ff4dbb59d06778ab2741dd59122908d&e=125855&a=110.164.130.13",
+ "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/chainsawman/chainsawman_ep8.jpg"
     }
   ]
 }
