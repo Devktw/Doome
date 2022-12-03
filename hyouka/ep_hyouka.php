@@ -2,7 +2,7 @@
   "listanime":[
 {
       "name_ep":"ปริศนาความทรงจำ ตอนที่1",
-"ep":"https://www58.ff-01.com/token=mu5queIokx3-cZ-p3XmXng/1670052520/110.164.0.0/150/3/9e/f0ccd36efbd76175662241122164f9e3-1080p.mp4",
+"ep":"https://proxy2-cdn4.cdn9x.com/di4bb171/index.m3u8",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/hyouka/hotharo_ep1.jpg"
     },
 {
