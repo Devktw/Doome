@@ -87,7 +87,7 @@
       "type":"manga",
       "valus":"108",
       "status":"up",
-      "package":"free",
+      "package":"premium",
       "seson":"1",
       "subtitle":"แปลไทย",
   "sub_use":"Hiroki",
