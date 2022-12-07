@@ -275,7 +275,7 @@
 {
 "view_manga_a4":"หน้าที่69",
 "view_manga":"https://media.plawarn-manga.net/public/contents/upload/755/70.jpg"
-    }
+    },
 {
 "view_manga_a4":"หน้าที่70",
 "view_manga":"https://media.plawarn-manga.net/public/contents/upload/755/71.jpg"
