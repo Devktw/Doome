@@ -6,14 +6,14 @@
       "year":"2016",
       "formation":"ต่อสู้,ดราม่า,ตลก",
       "type":"manga",
-      "valus":"108",
+      "valus":"204",
       "status":"up",
       "package":"free",
       "seson":"1",
       "subtitle":"แปลไทย",
   "sub_use":"ไม่ทราบ",
 "profile":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ruKcWD2mGBbtgMqngylKDmzmw_VdKv5gZQ&usqp=CAU",
-      "mini_story":"เรื่องราวของจีโฮที่อาศัยอยู่กับพี่สาวของเขาเรื่องราวจะเป็นยังไงติดตามชม!!",
+      "mini_story":"คามาโดะ ทันจิโร่ เด็กหนุ่มผู้กลายเป็นนักล่าอสูรหลังจากครอบครัวของตนถูกอสูรฆ่าตายทั้งหมด ยกเว้นเพียงน้องสาวที่ชื่อเนะซึโกะเท่านั้นที่ได้กลายเป็นอสูรไป เขาจึงตั้งปณิธานว่าจะหาทางทำให้น้องสาวกลับมาเป็นมนุษย์ดังเดิมให้ได้",
       "image_manga":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ruKcWD2mGBbtgMqngylKDmzmw_VdKv5gZQ&usqp=CAU"
 
     },
