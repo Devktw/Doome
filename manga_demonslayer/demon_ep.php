@@ -11,7 +11,7 @@
       "subtitle":"แปลไทย",
       "view":"54 หน้า",
 "image_view_ep":"https://github.com/Devktw/Doome/raw/main/manga_demonslayer/demon_view_ep1.php", "image_manga_ep":"https://github.com/Devktw/Doome/raw/main/manga_demonslayer/demon_ep1.jpg"
-}
+   }
   ]
 }
 
