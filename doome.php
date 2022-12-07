@@ -1,6 +1,23 @@
 {
   "listanime":[
 {
+      "name_manga":ดาบพิฆาตอสูร",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep.php",
+      "year":"2016",
+      "formation":"ต่อสู้,ดราม่า,ตลก",
+      "type":"manga",
+      "valus":"108",
+      "status":"up",
+      "package":"free",
+      "seson":"1",
+      "subtitle":"แปลไทย",
+  "sub_use":"ไม่ทราบ",
+"profile":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ruKcWD2mGBbtgMqngylKDmzmw_VdKv5gZQ&usqp=CAU",
+      "mini_story":"เรื่องราวของจีโฮที่อาศัยอยู่กับพี่สาวของเขาเรื่องราวจะเป็นยังไงติดตามชม!!",
+      "image_manga":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ruKcWD2mGBbtgMqngylKDmzmw_VdKv5gZQ&usqp=CAU"
+
+    },
+{
    "name_anime":"บลู พีเรียด",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/blueperiod/ep_blueperiod.php",
       "year":"2021",
