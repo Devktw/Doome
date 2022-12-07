@@ -1,7 +1,7 @@
 {
   "listanime":[
 {
-      "name_manga":ดาบพิฆาตอสูร",
+      "name_manga":"ดาบพิฆาตอสูร",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/manga_sister/sister_ep.php",
       "year":"2016",
       "formation":"ต่อสู้,ดราม่า,ตลก",
