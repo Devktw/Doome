@@ -1,6 +1,22 @@
 {
   "listanime":[
 {
+      "name_manga":"แบล็คโคลเวอร์",
+"url_ep":"https://github.com/Devktw/Doome/raw/main/manga_demonslayer/demon_ep.php",
+      "year":"2017",
+      "formation":"ต่อสู้,ดราม่า,ตลก",
+      "type":"anime",
+      "valus":"170",
+      "status":"up",
+      "package":"free",
+      "seson":"1",
+      "subtitle":"พากย์ไทย",
+"profile":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ruKcWD2mGBbtgMqngylKDmzmw_VdKv5gZQ&usqp=CAU",
+      "mini_story":"คามาโดะ ทันจิโร่ เด็กหนุ่มผู้กลายเป็นนักล่าอสูรหลังจากครอบครัวของตนถูกอสูรฆ่าตายทั้งหมด ยกเว้นเพียงน้องสาวที่ชื่อเนะซึโกะเท่านั้นที่ได้กลายเป็นอสูรไป เขาจึงตั้งปณิธานว่าจะหาทางทำให้น้องสาวกลับมาเป็นมนุษย์ดังเดิมให้ได้",
+      "image_anime":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ruKcWD2mGBbtgMqngylKDmzmw_VdKv5gZQ&usqp=CAU"
+
+    },
+{
       "name_manga":"ดาบพิฆาตอสูร",
 "url_ep":"https://github.com/Devktw/Doome/raw/main/manga_demonslayer/demon_ep.php",
       "year":"2016",
