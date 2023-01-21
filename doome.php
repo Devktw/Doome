@@ -7,7 +7,7 @@
       "formation":"ต่อสู้,ดราม่า,ตลก",
       "type":"anime",
       "valus":"170",
-      "status":"up",
+      "status":"soon",
       "package":"free",
       "seson":"1",
       "subtitle":"พากย์ไทย",
