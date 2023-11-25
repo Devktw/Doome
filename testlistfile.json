@@ -1,5 +1,4 @@
 [
-    {"name": "ไฟล์ 1", "url": "files/file1.txt"},
-    {"name": "ไฟล์ 2", "url": "files/file2.pdf"}
-    // เพิ่มไฟล์ที่คุณต้องการให้ดาวน์โหลดต่อไป
+    {"name": "ไฟล์ 1", "url": "https://github.com/Devktw/Doome/blob/main/moba.png?raw=true"},
+    {"name": "ไฟล์ 2", "url": "https://github.com/Devktw/Doome/blob/main/moba.png?raw=true"}
 ]
