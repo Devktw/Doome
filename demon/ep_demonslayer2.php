@@ -2,7 +2,7 @@
   "listanime":[
 {
       "name_ep":"ดาบพิฆาตอสูร เดอะมูฟวี่ ศึกรถไฟสู่นิรันดร์",
-"ep":"https://a10.rukoluo.com/f/Kimetsu-no-Yaiba-Movie-Mugen-Train/Kimetsu-no-Yaiba-Movie-Mugen-Train.mp4?m=QOT17vTudYHbNl1nqgPYhQ&e=1667531806",
+"ep":"https://streaming-3.vip-streaming.com/SunPT-4/2-ssd/movie/store-5/IRON_MAN_2008.mp4/playlist.m3u8",
  "subtitle":"พากย์ไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/demon/demonslayer1.png"
     }
   ]
