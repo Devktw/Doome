@@ -84,7 +84,7 @@
       "type":"anime",
       "valus":"25",
       "status":"end",
-      "package":"free",
+      "package":"premium",
       "seson":"1",
       "subtitle":"พากย์ไทย",
       "url":"https://moonlightvpn-th.tk/cc.mp4",
