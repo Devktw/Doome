@@ -2,7 +2,7 @@
   "listanime":[
 {
       "name_ep":"ตอนที่1 เสาหลักเสียง อุซุย เท็นเง็น",
-"ep":"https://flyer.akamaicdn.cloud/auth/3006645047/playlist.m3u8?anthony=a55990f18534fdd2d61d62d454479bcb&e=153622&a=103.2.115.135",
+"ep":"https://akuma-player.xyz/play/39a121bc-d77c-5e6b-b3ea-4a8a874aa71a?v=1",
  "subtitle":"ซับไทย", "image_ep":"https://github.com/Devktw/Doome/raw/main/demonss2/demonss2_ep1.jpg"
     },
 {
